@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Data-Science-React-project1/static/css/main.18addcde.css",
+    "main.js": "/Data-Science-React-project1/static/js/main.1dc08ad3.js",
+    "static/js/787.cc4e593a.chunk.js": "/Data-Science-React-project1/static/js/787.cc4e593a.chunk.js",
+    "static/media/laptop.jpg": "/Data-Science-React-project1/static/media/laptop.45ddf500e572fb2f1d35.jpg",
+    "static/media/single.png": "/Data-Science-React-project1/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/double.png": "/Data-Science-React-project1/static/media/double.8be045e6bb88be63d414.png",
+    "static/media/triple.png": "/Data-Science-React-project1/static/media/triple.4eb8f19f4b4647321484.png",
+    "index.html": "/Data-Science-React-project1/index.html",
+    "main.18addcde.css.map": "/Data-Science-React-project1/static/css/main.18addcde.css.map",
+    "main.1dc08ad3.js.map": "/Data-Science-React-project1/static/js/main.1dc08ad3.js.map",
+    "787.cc4e593a.chunk.js.map": "/Data-Science-React-project1/static/js/787.cc4e593a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18addcde.css",
+    "static/js/main.1dc08ad3.js"
+  ]
+}
